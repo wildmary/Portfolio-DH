@@ -19,6 +19,21 @@
 
 Ссылка на репозиторий: https://github.com/wildmary/Following-Sherlock-Holmes-footsteps
 
+
+
+**Some remarks on Remarque**
+
+Работа в stylo и тематическое моделирование в Mallet на основе корпуса текстов Ремарка. Целью было сравнить немецкий оригинал и переводы на русский язык при помощи кластеров и выявления основных тем - за небольшими исключениями русские переводы оказались очень близки к оригиналу и по стилю, и по тематическим акцентам.
+Немецкий кластер:
+![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/Рисунок2.png)
+Русский кластер:
+![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/Рисунок1.png)
+Пример топиков:
+![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/LfF1U-tib64.jpg)
+Полная презентация: https://github.com/wildmary/Portfolio-DH/blob/master/Remarque.pptx
+
+
+
 **Hobbit**
 Визуализация отношений персонажей в книге "Хоббит" с помощью ресурса ezlinavis.
 
