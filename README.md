@@ -2,9 +2,6 @@
 Работы, выполненные в рамках минора «Введение в цифровые гуманитарные науки» совместно с Александрой Близнюченко.
 
 
-**Deconstructing Woody Allen**
-
-Ссылка на репозиторий: https://github.com/wildmary/dh-minor/tree/master/Deconstructing%20Woody%20Allen 
 
 
 **Following Sherlock Holmes’s footsteps**
@@ -33,6 +30,19 @@
 Ссылка на репозиторий с подробным описанием: https://github.com/wildmary/James-Bond-travels
 
 
+**Deconstructing Woody Allen**
+
+Работа с корпусами сценариев и рецензий зрителей на фильмы, а также с оценками критиков. Сравнение сценариев при помощи stylo, вычленение основных тем в творчестве режиссера. 
+
+Создание сводной таблицы в Excel: общее впечатление зрителей на основе topic modeling, поиск закономерности между процентным содержанием основных тем в каждом фильме, между годами содания и и успехом у зрителей и критиков. В целом критики оценивают творчество Вуди Аллена выше зрителей. Люди же ценят его за чувство юмора.
+![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/woody%20excel.jpg)
+
+Прием самоповторения себя не оправдывает: сценарий, по стилю похожий на успешный образец, не гарантирует качество нового фильма.
+
+![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/_2X86KX8ak4.jpg)
+
+Ссылка на презентацию: https://github.com/wildmary/dh-minor/blob/master/Deconstructing%20Woody%20Allen/Deconstructing%20Woody.pptx
+Ссылка на репозиторий: https://github.com/wildmary/dh-minor/tree/master/Deconstructing%20Woody%20Allen 
 
 
 
