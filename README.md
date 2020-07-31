@@ -42,6 +42,7 @@
 ![ОБОЖЕМОЙ](https://github.com/wildmary/Portfolio-DH/blob/master/_2X86KX8ak4.jpg)
 
 Ссылка на презентацию: https://github.com/wildmary/dh-minor/blob/master/Deconstructing%20Woody%20Allen/Deconstructing%20Woody.pptx
+
 Ссылка на репозиторий: https://github.com/wildmary/dh-minor/tree/master/Deconstructing%20Woody%20Allen 
 
 
