@@ -20,6 +20,20 @@
 
 Ссылка на репозиторий: https://github.com/wildmary/Following-Sherlock-Holmes-footsteps
 
+**James Bond travels**
+
+Визуализация перемещений всех Джеймсов Бондов на киноэкране с помощью geojon.io. Мы сделали по отдельной карте для каждого актера и общую карту за все годы.
+
+Пример: Дэниел Крейг
+![ОБОЖЕМОЙ](https://github.com/wildmary/James-Bond-travels/blob/master/крейг.png)
+
+Все актеры:
+![ОБОЖЕМОЙ](https://github.com/wildmary/James-Bond-travels/blob/master/Безымянный.png)
+
+Ссылка на репозиторий с подробным описанием: https://github.com/wildmary/James-Bond-travels
+
+
+
 
 
 **Some remarks on Remarque**
