@@ -18,3 +18,10 @@
 [![sh](http://img.youtube.com/vi/2-Alh8kRXs4/0.jpg)](http://www.youtube.com/watch?v=2-Alh8kRXs4 "")
 
 Ссылка на репозиторий: https://github.com/wildmary/Following-Sherlock-Holmes-footsteps
+
+**Hobbit**
+Визуализация отношений персонажей в книге "Хоббит" с помощью ресурса ezlinavis.
+
+Работа выполнена самостоятельно.
+
+Ссылка на репозиторий: https://github.com/wildmary/Hobbit
